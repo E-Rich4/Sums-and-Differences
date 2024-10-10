@@ -1,0 +1,13 @@
+//input file. this will be ignored
+//to switch from difference to sum, delete the '/' on the "S =" and "10" lines
+
+1
+2
+3
+7
+8
+15
+22
+
+/S =
+/10
